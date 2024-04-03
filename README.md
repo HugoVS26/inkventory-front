@@ -6,9 +6,9 @@ Firstly, the page was designed in **Figma** to outline all the interface styles 
 
 Throughout the application development, **version control** was managed via **GIT**, following a **CI/CD** workflow in the pipeline, such as trunk-based development, overseeing all the code that was committed to the master branch using **husky** hooks, among others. For maintaining code quality practices, tools like **Eslint** and **Prettier** were utilized. **Lighthouse** was employed to monitor **accessibility**, **best practices**, **SEO**, and performance aspects.
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=HugoVS26_inkventory-front)](https://sonarcloud.io/summary/new_code?id=HugoVS26_inkventory-front)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=HugoVS26_inkventory-front)](https://sonarcloud.io/summary/overall?id=HugoVS26_inkventory-front)
 
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=HugoVS26_inkventory-front&metric=coverage)](https://sonarcloud.io/summary/new_code?id=HugoVS26_inkventory-front)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=HugoVS26_inkventory-front&metric=coverage)](https://sonarcloud.io/summary/overall?id=HugoVS26_inkventory-front)
 
 ## Features
 
