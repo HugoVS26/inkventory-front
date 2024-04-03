@@ -32,14 +32,6 @@ const TattooCard = ({
             height="222"
           />
         </a>
-        <div className="tattooCard_toogleFavorite">
-          <img
-            src="/images/heart-not-favorite.svg"
-            alt="toggle favorite tattoo"
-            width="30"
-            height="30"
-          />
-        </div>
         <div className="tattooCard__info">
           <h2 className="tattooCard__title">{artist}</h2>
           <span className="tattooCard__data">Style: {style}</span>
